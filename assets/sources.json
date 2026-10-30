@@ -1,0 +1,50 @@
+[
+  {
+    "file": "licenses/MIT.txt",
+    "url": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/MIT.txt",
+    "retrieved": "2026-10-29",
+    "sha256": "b05785f9f18e6716bab63424b11454513b9943a222595b70411009202fc592b5"
+  },
+  {
+    "file": "licenses/Apache-2.0.txt",
+    "url": "https://www.apache.org/licenses/LICENSE-2.0.txt",
+    "retrieved": "2026-10-29",
+    "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+  },
+  {
+    "file": "licenses/GPL-3.0.txt",
+    "url": "https://www.gnu.org/licenses/gpl-3.0.txt",
+    "retrieved": "2026-10-29",
+    "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+  },
+  {
+    "file": "licenses/BSD-3-Clause.txt",
+    "url": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/BSD-3-Clause.txt",
+    "retrieved": "2026-10-29",
+    "sha256": "5a93d5831e1297ab10fe643e1a631e83be392896da14ee2951285a79012df69d"
+  },
+  {
+    "file": "templates/Node.gitignore",
+    "url": "https://raw.githubusercontent.com/github/gitignore/main/Node.gitignore",
+    "retrieved": "2026-10-29",
+    "sha256": "dcb0fefb689cd92e1532e3e9dd30ff1d9e2a5a8d36c9878926f9716c3d389d1d"
+  },
+  {
+    "file": "templates/Python.gitignore",
+    "url": "https://raw.githubusercontent.com/github/gitignore/main/Python.gitignore",
+    "retrieved": "2026-10-29",
+    "sha256": "114f3cdc2057d610cbc810f69cbc4f195acec0cd15dd54e9b154cf5f6657fc24"
+  },
+  {
+    "file": "templates/Go.gitignore",
+    "url": "https://raw.githubusercontent.com/github/gitignore/main/Go.gitignore",
+    "retrieved": "2026-10-29",
+    "sha256": "16c7d7ad8c23ef27ccc8fe3c605752024a4d353f7e0b745defad7e6b0430b719"
+  },
+  {
+    "file": "templates/gitignore-CC0.txt",
+    "url": "https://raw.githubusercontent.com/github/gitignore/main/LICENSE",
+    "retrieved": "2026-10-29",
+    "sha256": "36ffd9dc085d529a7e60e1276d73ae5a030b020313e6c5408593a6ae2af39673"
+  }
+]
