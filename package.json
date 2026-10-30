@@ -1,0 +1,1 @@
+{"name":"bk-tools","version":"0.1.0","private":true,"type":"module","scripts":{"start":"node server.mjs","test":"node tests/models.test.mjs && node tests/data.test.mjs && node tests/zip.test.mjs"}}
